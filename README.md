@@ -1,4 +1,3 @@
-# Huddle
-Week 5 Assessment 1 Reskill Americans Assignment <br>
-Responsive HTML and CSS Practice Page <br>
-https://kboeh.github.io/Huddle/
+# Responsive Registration Landing Page
+This fullly responsive page was created in vanilla HTML and CSS.<br> Use the link below to see:<br>
+https://kboeh.github.io/registration-landing-page/
